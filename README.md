@@ -24,6 +24,13 @@
    - Excel
    - SQL Server Management Studio (SSMS)
    - Microsoft Visual Studio Code
+     
+## About me
+Hi! I am a passionate Data Analyst and Business Intelligence professional with a strong background in data analytics and a wide range of technical skills. My certifications and experience have provided me with a versatile skill set to tackle data-related challenges and make informed decisions.
+
+I am an advocate of effective data storytelling and meaningful data visualization. I believe in telling stories through data to communicate ideas clearly and persuasively.
+
+If you're looking for someone to collaborate on Data Analysis, Business Intelligence or Data Science projects, I'm ready to work with you!
 
 ## Acerca de mí
 ¡Hola! Soy un apasionado Data Analyst y Business Intelligence professional con una sólida base en análisis de datos y una amplia gama de habilidades técnicas. Mis certificaciones y experiencia me han proporcionado un conjunto de habilidades versátiles para abordar desafíos relacionados con datos y tomar decisiones informadas.
