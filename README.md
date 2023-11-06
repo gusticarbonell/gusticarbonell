@@ -13,6 +13,7 @@
 ## Habilidades
 - **Lenguajes**:
    - Python
+   - SQL Server
 - **Herramientas**:
    - Machine Learning
    - SQL Server
