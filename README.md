@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-## Certificaciones
+## Certificaciones 📖
 - Data Analyst
    - Microsoft & LinkedIn (03–2020)
 - Platform Administrator
