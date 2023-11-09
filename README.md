@@ -10,7 +10,9 @@
 - Data Science
    - Coderhouse (11–2023)
 
-## Habilidades ![image](https://github.com/gusticarbonell/gusticarbonell/assets/20583585/b7bb4a5f-bed1-4820-8be6-ee6fabc44505)
+## Habilidades ![setting](https://github.com/gusticarbonell/gusticarbonell/assets/20583585/862f020b-967e-4a7b-81af-28bea1a57033)
+
+
 
 - **Lenguajes**:
    - Python
